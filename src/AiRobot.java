@@ -205,7 +205,7 @@ public class AiRobot extends JFrame implements ActionListener {
 		resultRightArea = new JTextArea("");
 		resultRightArea.setBounds(212,209, 540, 400);
 		resultRightArea.setOpaque(false);
-		resultRightArea.setEditable(true);
+		resultRightArea.setEditable(false);
 		resultRightArea.setLineWrap(true);
 		resultRightArea.setForeground(Color.BLACK);
 		resultRightArea.setFont(font);

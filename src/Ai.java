@@ -40,6 +40,8 @@ public class Ai {
             readFileToArrays("word/词库3.txt");
             readFileToArrays("word/词库4.txt");
             readFileToArrays("word/词库5.txt");
+            readFileToArrays("word/综合词库.txt");
+            readFileToArrays("word/骂人词库.txt");
         }
 	}
 	public void showWord()
